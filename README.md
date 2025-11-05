@@ -129,7 +129,9 @@ This project is inspired by the official [Whizlabs Hands-On Lab: AI-Powered Resu
 ## 📸 Preview
 | Resume Input | Screening Output |
 |---------------|------------------|
-| ![Sample Resume](images/sample_input.png) | ![Sample Output](images/sample_output.png) |
+| ![Sample Resume](<img width="1536" height="1024" alt="ChatGPT Image Nov 5, 2025, 04_33_45 PM" src="https://github.com/user-attachments/assets/a2fb8967-86de-466a-b045-5c5a9a134ca2" />
+) | ![Sample Output](<img width="1536" height="1024" alt="ChatGPT Image Nov 5, 2025, 04_39_59 PM" src="https://github.com/user-attachments/assets/915f38ec-2f57-41d4-9029-1a3b101586c3" />
+) |
 
 ---
 
